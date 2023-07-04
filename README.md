@@ -36,7 +36,7 @@ The Shop App utilizes the following technologies and libraries:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/shop-app.git
+   git clone https://github.com/mayuryalij/Shop-App.git
    ```
 2. Navigate to the project directory:
    ```
